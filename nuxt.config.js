@@ -33,6 +33,8 @@ export default {
     '@nuxtjs/axios'
   ],
 
+  loading: {color: 'blue'},
+
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
   }
